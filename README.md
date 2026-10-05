@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0E7490&height=160&section=header&text=Mateus%20Henrique&fontColor=FFFFFF&fontSize=40&fontAlignY=38&desc=Data%20%26%20Software%20%7C%20USP&descSize=18&descAlignY=60" alt="Mateus Henrique · Data & Software | USP" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0E7490&height=140&section=header&text=Mateus%20Henrique&fontColor=FFFFFF&fontSize=40&fontAlignY=40&desc=Data%20%26amp%3B%20Software%20%7C%20USP&descSize=18&descAlignY=66" alt="Mateus Henrique · Data & Software | USP" width="100%" />
 
 <p align="center">
   <picture>
@@ -14,7 +14,7 @@ No dia a dia trabalho com SQL e Python; nos projetos pessoais, gosto de levar o 
 Procuro estágio em Dados (Analytics / Engineering) ou Engenharia de Software.
 
 <details>
-<summary>🇺🇸 In English</summary>
+<summary>🌎 In English</summary>
 
 <br />
 
