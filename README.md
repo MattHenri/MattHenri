@@ -49,15 +49,15 @@ Open to internships in Data (Analytics / Engineering) and Software Engineering. 
 
 ### [calc-financeira-br](https://github.com/MattHenri/calc-financeira-br)
 Servidor MCP que dá ao Claude (e a qualquer cliente MCP) cálculos financeiros brasileiros exatos e com memória de cálculo, porque LLMs erram juros compostos, dias úteis e faixas de IR.
-Já consulta Selic, CDI, IPCA e TR no Banco Central e simula CDB, LC, LCI e LCA pós-fixados com IR, IOF e base 252.
+Já consulta Selic, CDI, IPCA e TR no Banco Central, simula e compara investimentos de renda fixa (CDB, LC, LCI, LCA, Tesouro Selic e poupança) com IR, IOF e dias úteis e converte taxas equivalentes.
 `Python` · `MCP` · `Pydantic` · `Decimal` · `pytest` + `Hypothesis` · `GitHub Actions`
 
 ### [matching-engine](https://github.com/MattHenri/matching-engine)
 Motor de casamento de ordens em memória para um ativo, com prioridade preço-tempo, ordens limitadas e a mercado e um terminal interativo.
 `Python` · `Decimal` · `pytest` + `Hypothesis` · `mypy --strict`
 
-### [previsao_acoes](https://github.com/MattHenri/previsao_acoes)
-Previsão do fechamento da PETR4 no dia seguinte com regressão linear, usando dados do Yahoo Finance e features de média móvel e volatilidade.
+### [previsao-acoes](https://github.com/MattHenri/previsao-acoes)
+Previsão do fechamento da PETR4 no dia seguinte com regressão linear (média móvel e volatilidade), avaliada contra um baseline ingênuo.
 `Python` · `pandas` · `scikit-learn` · `Matplotlib` · `Jupyter`
 
 ## Estatísticas
